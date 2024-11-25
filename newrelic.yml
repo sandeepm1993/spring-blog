@@ -1,5 +1,4 @@
 common: &default_settings
   license_key: 69a3c6fe9f22bafe374d60816355ed9eFFFFNRAL
-  app_name: bt-nonprod-smalagi-jvm
-  labels: 
+  app_name: bt-nonprod-smalagi-jvm-nov24
     bt.technology.id: a5870000000fxeoAAA
